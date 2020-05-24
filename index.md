@@ -6,5 +6,5 @@ my social circle.
 For now I'm hastily getting the content together, and I'll worry about the
 presentation later.
 
-[Gamedev & ludology](./gamedev-content.html)
+[Gamedev & ludology](./gamedev-content.html)  
 [Windows 10 Setup](./win10-setup)
