@@ -33,4 +33,18 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\TimeZoneInformation]
 "RealTimeIsUniversal"=dword:00000001
-``` 
+```
+
+# Disable fast startup
+
+Fast startup can cause issues when dual-booting especially if you want to access
+an NTFS partition from Linux. Windows leaves some sort of cache that linux
+doesn't want to mess with so you are forced to use the NTFS partition in
+read-only mode. To disable it, use this .reg file.
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:0
+```
