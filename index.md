@@ -7,5 +7,6 @@ For now I'm hastily getting the content together, and I'll worry about the
 presentation later.
 
 [Gamedev & ludology](./gamedev-content.html)  
-[Software Development](./dev-content.html)  
-[Windows 10 Setup](./win10-setup)
+[Software development](./dev-content.html)  
+[Software & (lack of) ethics](./software-ethics.md)  
+[Windows 10 setup](./win10-setup)
