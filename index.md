@@ -7,7 +7,7 @@ For now I'm hastily getting the content together, and I'll worry about the
 presentation later.
 
 [Gamedev & ludology](./gamedev-content.html)  
-[Hacking](./gamedev-content.html)  
+[Hacking](./hacking.html)  
 [Software development](./dev-content.html)  
-[Software & (lack of) ethics](./software-ethics.md)  
+[Software & (lack of) ethics](./software-ethics.html)  
 [Windows 10 setup](./win10-setup)
