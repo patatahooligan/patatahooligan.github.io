@@ -6,3 +6,5 @@ YouTube's Copyright System Isn't Broken. The World's Is.
 \[[Youtube](https://youtu.be/0wtvQZijPzg)\]
 Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software
 Engineering  
+\[[Youtube](https://youtu.be/001SxQCEuv8)\]
+Dylan Beattie — The cost of code  
